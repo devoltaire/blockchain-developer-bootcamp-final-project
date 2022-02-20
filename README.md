@@ -11,3 +11,5 @@ The process of requesting one's own medical data is costly and time consuming. W
 How does it address the last mile issue?
 
 Since we are signing our own data to write to our ID on the blockchain, this overcomes the "malicious" intent that blockchain cannot solves and also the motivation to ensure clean data is written to blockchain is present.
+
+Feb 20th
